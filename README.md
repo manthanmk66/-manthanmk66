@@ -2,7 +2,7 @@
 
 
 
-# Hi there! 👋 I'm https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Manthan%20Kasle
+# Hi there! 👋 I'm <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Manthan%20Kasle"/>
 
 Passionate 22-year-old Web Developer and Digital Marketer based in Pune, India. Crafting digital experiences is my forte, and I hold a degree in Software Engineering. My journey revolves around creating impactful digital solutions and continuously learning to stay ahead in the game.
 
