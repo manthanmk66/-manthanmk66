@@ -1,11 +1,15 @@
 # Portfolio- https://manthanpersonalportfolio.netlify.app/
 
 
-- 👋 Hi, I’m Manthan Kasle
-- 👀 I’m interested in Web based technology 
-- 🌱 I’m currently learning PG-DAC Course
-- 💞️ I’m looking to collaborate on Web technology projects 
-- 📫 How to reach me ...
+I am Manthan Kasle, a passionate 22-year-old Web Developer and Digital Marketer based in Pune. I hold a degree in Software Engineering, and my journey revolves around crafting digital experiences.
+
+In a Nutshell:I spend my days immersed in my room, where I either embark on exciting new projects or dive into the endless realms of learning. My toolkit is minimalist but powerful – just my terminal, IDE, and browser. Oh, and yes, I'm a connoisseur of crafting great memes!
+
+Professional Background:With a solid foundation in Software Engineering, I bring a unique blend of technical prowess and creative flair to the digital landscape. My focus lies in web development, where I thrive on turning ideas into reality.
+
+Personal Pursuits:Beyond the screen, I'm a sci-fi enthusiast, with a particular penchant for Christopher Nolan movies. There's something magical about the way he weaves intricate narratives that captivate the mind.
+
+Building Dreams:I find immense joy in creating things that make a difference. Whether it's a sleek website or a robust digital solution, I love the journey of turning concepts into tangible, impactful results.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanmk66&label=Profile%20views&color=0e75b6&style=flat" alt="manthanmk66" /> </p>
 <img aligh="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
