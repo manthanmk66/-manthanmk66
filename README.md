@@ -30,7 +30,7 @@ Passionate 22-year-old Web Developer and Digital Marketer based in Pune, India. 
 ### Languages and Tools 🛠 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,vite,nodejs,express,tailwind,mongodb,d3,java,spring,mysql,js,jquery,linux,aws,git,firebase,docker,dotnet,c,cs,cpp,eclipse,figma,vercel,notion,ps,postman,replit" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,vite,nodejs,express,tailwind,mongodb,d3,java,spring,mysql,js,jquery,linux,aws,git,firebase,docker,dotnet,c,cs,cpp,vscode,eclipse,figma,vercel,notion,ps,postman,replit" />
   </a>
 </p>
 
