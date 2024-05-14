@@ -6,13 +6,13 @@
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Manthan%F0%9F%91%8B;Let's+Connect!"/>
 </div>
+Passionate 22-year-old Web Developer and Digital Marketer based in Pune, India. Crafting digital experiences is my forte, and I hold a degree in Software Engineering. My journey revolves around creating impactful digital solutions and continuously learning to stay ahead in the game. 
+
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/manthan_reddy)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manthan-kasle-1953b2193/)
 ![border-seperator](assets/borderseparator.gif) 
 
-
-Passionate 22-year-old Web Developer and Digital Marketer based in Pune, India. Crafting digital experiences is my forte, and I hold a degree in Software Engineering. My journey revolves around creating impactful digital solutions and continuously learning to stay ahead in the game.
 
 ## In a Nutshell
 
