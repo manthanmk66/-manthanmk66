@@ -13,6 +13,12 @@ Passionate 22-year-old Web Developer and Digital Marketer based in Pune, India. 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manthan-kasle-1953b2193/)
 ![border-seperator](assets/borderseparator.gif) 
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx manthanmk
+```
+
 
 ## In a Nutshell
 
